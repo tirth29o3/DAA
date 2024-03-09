@@ -26,7 +26,7 @@ void BinarySearch(int a[],int x,int n)
 
 int main()
 {
-    int n=100000;
+    int n=999999;
     int arr[n];
     for(int i=0;i<n;i++)
     {
