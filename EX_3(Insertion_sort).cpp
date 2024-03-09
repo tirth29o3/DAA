@@ -17,7 +17,7 @@ void InsertionSort(int a[],int n)
 }
 int main()
 {
-    int n=10;
+    int n=99;
     int best_case[n];
     int worst_case[n];
     for(int i=n;i>0;i--)
