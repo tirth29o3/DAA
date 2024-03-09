@@ -22,7 +22,7 @@
 }
 int main()
 {
-    int n=100000;
+    int n=9999;
     int best_case[n];
     int worst_case[n];
     for(int i=n;i>0;i--)
